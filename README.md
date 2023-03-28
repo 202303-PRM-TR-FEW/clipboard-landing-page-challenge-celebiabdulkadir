@@ -5,7 +5,8 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
+## You can check out on netlify! 👋
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ca9f942d-865e-42b0-b5dd-e5a00d35a2e2/deploy-status)](https://app.netlify.com/sites/landing-page-clipboard-recoded/deploys)
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
