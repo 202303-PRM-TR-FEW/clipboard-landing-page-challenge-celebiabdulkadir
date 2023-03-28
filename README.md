@@ -6,7 +6,7 @@
 ## Welcome! 👋
 
 ## You can check out on netlify! 👋
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ca9f942d-865e-42b0-b5dd-e5a00d35a2e2/deploy-status)](https://https://landing-page-clipboard-recoded.netlify.app)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ca9f942d-865e-42b0-b5dd-e5a00d35a2e2/deploy-status)](https://landing-page-clipboard-recoded.netlify.app)
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
